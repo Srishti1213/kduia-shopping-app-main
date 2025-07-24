@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kduia-shopping-app-main/static/css/main.1c6cc986.css",
+    "main.js": "/kduia-shopping-app-main/static/js/main.256274c3.js",
+    "static/js/453.675b4adf.chunk.js": "/kduia-shopping-app-main/static/js/453.675b4adf.chunk.js",
+    "index.html": "/kduia-shopping-app-main/index.html",
+    "main.1c6cc986.css.map": "/kduia-shopping-app-main/static/css/main.1c6cc986.css.map",
+    "main.256274c3.js.map": "/kduia-shopping-app-main/static/js/main.256274c3.js.map",
+    "453.675b4adf.chunk.js.map": "/kduia-shopping-app-main/static/js/453.675b4adf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c6cc986.css",
+    "static/js/main.256274c3.js"
+  ]
+}
